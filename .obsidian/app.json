@@ -1,0 +1,9 @@
+{
+  "newFileLocation": "root",
+  "attachmentFolderPath": "files",
+  "userIgnoreFilters": [
+    "files/",
+    "periodic/daily/",
+    "periodic/weekly/"
+  ]
+}
