@@ -3,7 +3,7 @@
   "attachmentFolderPath": "files",
   "userIgnoreFilters": [
     "files/",
-    "periodic/daily/",
-    "periodic/weekly/"
+    "templates/",
+    "periodic/templates/"
   ]
 }

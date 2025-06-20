@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGlasses",
-      "LiFile",
-      "LiCalendarRange",
-      "LiCalendarDays",
-      "LiCalendar"
+      "LiUserSquare",
+      "LiPaperclip",
+      "LiWorkflow",
+      "LiYoutube",
+      "LiGlasses"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,8 @@
   "periodic/weekly": "LiCalendarRange",
   "periodic/templates": "LiFile",
   "projects": "LiGlasses",
-  "templates": "LiFile"
+  "templates": "LiFile",
+  "projects/youtube": "LiYoutube",
+  "projects/articles": "LiPaperclip",
+  "projects/work": "LiWorkflow"
 }
