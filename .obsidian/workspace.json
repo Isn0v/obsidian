@@ -11,10 +11,14 @@
             "id": "917823a2491a65cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pde_definitions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pde_definitions"
             }
           }
         ]
@@ -167,6 +171,17 @@
   },
   "active": "917823a2491a65cc",
   "lastOpenFiles": [
+    "files/Pasted image 20250615180504.png",
+    "files/Pasted image 20250615183516.png",
+    "files/Pasted image 20250617174006.png",
+    "files/Pasted image 20250615183743.png",
+    "files/Pasted image 20250617184055.png",
+    "files/Pasted image 20250615192713.png",
+    "files/Pasted image 20250617163823.png",
+    "files/Pasted image 20250617184500.png",
+    "files/Pasted image 20250616022333.png",
+    "files/Pasted image 20250614220844.png",
+    "files/Pasted image 20250615204326.png",
     "pde_definitions.md",
     "periodic/weekly tasks.md",
     "daily template.md",
@@ -183,16 +198,6 @@
     "periodic/daily",
     "lec_pde.pdf",
     "projects",
-    "files/pics/Pasted image 20250617184500.png",
-    "files/pics/Pasted image 20250617184638.png",
-    "files/pics/Pasted image 20250617184542.png",
-    "files/pics/Pasted image 20250617184230.png",
-    "files/pics/Pasted image 20250617184129.png",
-    "files/pics/Pasted image 20250617184055.png",
-    "files/pics/Pasted image 20250617174006.png",
-    "files/pics/Pasted image 20250617163823.png",
-    "files/pics/Pasted image 20250617143009.png",
-    "files/pics/Pasted image 20250616154651.png",
     "Без названия 1.md",
     "Без названия.canvas",
     "Добро пожаловать.md"
