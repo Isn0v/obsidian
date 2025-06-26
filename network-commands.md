@@ -1,0 +1,13 @@
+***
+- `ss`
+- `dig`
+- `nft`
+- `ip`
+- `netstat`
+- `nmcli`
+- `ipset`
+- `ping`
+- `tcpdump` + `wireshark`
+- `iftop`
+- `netcat` (`nc`)
+- 

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "c051f695e87aa9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network-base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "network-base"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,6 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "network-base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -49,7 +65,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for network-base"
             }
           },
           {
@@ -87,11 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "network-base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from network-base"
             }
           }
         ]
@@ -177,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,9 +208,18 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "bb0237be05e94818",
+  "active": "c051f695e87aa9db",
   "lastOpenFiles": [
     "home/homepage.md",
+    "network-commands.md",
+    "network-base.md",
+    "files/network-models_1.jpg",
+    "files/tcp-handshake-diagram.png",
+    "leetcode-hard.md",
+    "periodic/daily tasks.md",
+    "SRE.md",
+    "tannenbaum-network.md",
+    "Компьютерные сети.md",
     "periodic/templates/daily template.md",
     "periodic/templates/weekly template.md",
     "2025-06-21.md",
@@ -206,10 +232,7 @@
     "files/Pasted image 20250615192713.png",
     "files/Pasted image 20250617163823.png",
     "files/Pasted image 20250617184500.png",
-    "files/Pasted image 20250616022333.png",
-    "files/Pasted image 20250614220844.png",
     "periodic/weekly tasks.md",
-    "periodic/daily tasks.md",
     "templates",
     "projects/work",
     "projects/job",
