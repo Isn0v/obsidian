@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "c051f695e87aa9db",
+            "id": "3b3c04442009dec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network-base.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "network-base"
+              "title": "Linux"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network-base.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -65,7 +65,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for network-base"
+              "title": "Backlinks for Linux"
             }
           },
           {
@@ -103,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network-base.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from network-base"
+              "title": "Outgoing links from Linux"
             }
           }
         ]
@@ -208,11 +208,13 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c051f695e87aa9db",
+  "active": "3b3c04442009dec0",
   "lastOpenFiles": [
+    "Linux.md",
     "home/homepage.md",
-    "network-commands.md",
+    "docker.md",
     "network-base.md",
+    "network-commands.md",
     "files/network-models_1.jpg",
     "files/tcp-handshake-diagram.png",
     "leetcode-hard.md",
