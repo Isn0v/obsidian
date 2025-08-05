@@ -21,3 +21,4 @@ aliases:
 -  [[SRE|SRE: Подготовка к собесу]]
 -  [[docker|Docker]]
 -  [[Linux|Linux]]
+-  [[Kubernetes|Kubernetes]]

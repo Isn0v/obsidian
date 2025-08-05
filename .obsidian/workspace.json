@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
-            }
-          },
-          {
-            "id": "3b3c04442009dec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Kubernetes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -65,7 +50,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linux"
+              "title": "Backlinks for Kubernetes"
             }
           },
           {
@@ -103,12 +88,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linux"
+              "title": "Outgoing links from Kubernetes"
             }
           }
         ]
@@ -208,10 +193,11 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "3b3c04442009dec0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Linux.md",
     "home/homepage.md",
+    "Kubernetes.md",
+    "Linux.md",
     "docker.md",
     "network-base.md",
     "network-commands.md",

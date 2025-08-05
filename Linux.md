@@ -9,5 +9,6 @@
 -  `users`
 -  `groups`
 -  `passwd`
+- `newgrp`
 
 > В файле `/etc/passwd` лежит инфа о всех пользователях
