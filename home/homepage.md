@@ -22,3 +22,5 @@ aliases:
 -  [[docker|Docker]]
 -  [[Linux|Linux]]
 -  [[Kubernetes|Kubernetes]]
+-  [[Helm]]
+

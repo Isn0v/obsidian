@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9da9e31ca4947195",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "b01b9b4c09608fd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -50,7 +45,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kubernetes"
+              "title": "Backlinks"
             }
           },
           {
@@ -88,12 +83,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kubernetes"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -193,25 +187,28 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b01b9b4c09608fd0",
   "lastOpenFiles": [
-    "home/homepage.md",
-    "Kubernetes.md",
     "Linux.md",
-    "docker.md",
-    "network-base.md",
+    "home/homepage.md",
+    "SRE.md",
     "network-commands.md",
+    "reliable_architecture.md",
+    "Kubernetes.md",
+    "Helm.md",
+    "tannenbaum-network.md",
+    "docker.md",
+    "lec_pde.pdf",
+    "pde_definitions.md",
+    "network-base.md",
     "files/network-models_1.jpg",
     "files/tcp-handshake-diagram.png",
     "leetcode-hard.md",
     "periodic/daily tasks.md",
-    "SRE.md",
-    "tannenbaum-network.md",
     "Компьютерные сети.md",
     "periodic/templates/daily template.md",
     "periodic/templates/weekly template.md",
     "2025-06-21.md",
-    "pde_definitions.md",
     "files/Pasted image 20250615180504.png",
     "files/Pasted image 20250615183516.png",
     "files/Pasted image 20250617174006.png",
@@ -229,7 +226,6 @@
     "periodic/templates",
     "periodic/weekly",
     "periodic/daily",
-    "lec_pde.pdf",
     "projects",
     "Без названия 1.md",
     "Без названия.canvas",
