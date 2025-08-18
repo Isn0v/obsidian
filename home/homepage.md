@@ -9,9 +9,6 @@ aliases:
 # 🚪Точки входа
 ***
 
-- 📅 [[daily tasks|Свод по дням]]
-- 🗓️ [[weekly tasks|Свод по неделям]]
-
 ## 👨‍🎓 ВУЗ
 
 - [[pde_definitions|Урматы]]
@@ -20,7 +17,10 @@ aliases:
 
 -  [[SRE|SRE: Подготовка к собесу]]
 -  [[docker|Docker]]
--  [[Linux|Linux]]
 -  [[Kubernetes|Kubernetes]]
 -  [[Helm]]
+-  [[Linux|Linux]]
+-  [[network|Сети]]
+- [[security|Безопасность]]
+- [[databases|Базы данных]]
 

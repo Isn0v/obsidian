@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9da9e31ca4947195",
+        "id": "3916ddb5b3c0ed6c",
         "type": "tabs",
         "children": [
           {
-            "id": "b01b9b4c09608fd0",
+            "id": "98095b5869dfafb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "databases.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "databases"
             }
           }
         ]
@@ -103,7 +107,7 @@
       {
         "id": "f9e322ba02318fcd",
         "type": "tabs",
-        "dimension": 37.24315068493151,
+        "dimension": 42.465753424657535,
         "children": [
           {
             "id": "bb0237be05e94818",
@@ -120,7 +124,7 @@
       {
         "id": "e73d036f479f2675",
         "type": "tabs",
-        "dimension": 62.7568493150685,
+        "dimension": 57.534246575342465,
         "children": [
           {
             "id": "d265e9a486cc0cc2",
@@ -173,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,15 +191,19 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "b01b9b4c09608fd0",
+  "active": "bb0237be05e94818",
   "lastOpenFiles": [
-    "Linux.md",
+    "databases.md",
     "home/homepage.md",
+    "files/Pasted image 20250818105414.png",
+    "network.md",
+    "security.md",
+    "Linux.md",
+    "Helm.md",
     "SRE.md",
     "network-commands.md",
     "reliable_architecture.md",
     "Kubernetes.md",
-    "Helm.md",
     "tannenbaum-network.md",
     "docker.md",
     "lec_pde.pdf",
@@ -216,7 +224,6 @@
     "files/Pasted image 20250617184055.png",
     "files/Pasted image 20250615192713.png",
     "files/Pasted image 20250617163823.png",
-    "files/Pasted image 20250617184500.png",
     "periodic/weekly tasks.md",
     "templates",
     "projects/work",
