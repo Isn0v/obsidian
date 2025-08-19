@@ -9,18 +9,13 @@ aliases:
 # 🚪Точки входа
 ***
 
-## 👨‍🎓 ВУЗ
+## ♾️ Математика
 
 - [[pde_definitions|Урматы]]
 
-## 👨‍⚕️ Работа 
+## 👨‍💻 [[IT|Информационные технологии]]
 
--  [[SRE|SRE: Подготовка к собесу]]
--  [[docker|Docker]]
--  [[Kubernetes|Kubernetes]]
--  [[Helm]]
--  [[Linux|Linux]]
--  [[network|Сети]]
-- [[security|Безопасность]]
-- [[databases|Базы данных]]
 
+## 📖 Саморазвитие 
+
+- [[economics|Экономика]]
