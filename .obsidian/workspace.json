@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3509d97c8c86098e",
+        "id": "c444bbf2ce2146f2",
         "type": "tabs",
         "children": [
           {
-            "id": "25f2cda0cf649be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "network"
-            }
-          },
-          {
-            "id": "ad891aeda46582ec",
+            "id": "377cdf14e4bf3e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +22,49 @@
             }
           },
           {
-            "id": "25bf27ac72c25e2b",
+            "id": "0d466166751eaad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "IT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "IT"
             }
           },
           {
-            "id": "924844e96ff537f4",
+            "id": "d6f980281c52a308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "economics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "economics"
+            }
+          },
+          {
+            "id": "16692e661121c495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IT"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homepage"
+              "title": "Backlinks"
             }
           },
           {
@@ -131,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from homepage"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -150,26 +148,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e322ba02318fcd",
-        "type": "tabs",
-        "dimension": 42.465753424657535,
-        "children": [
-          {
-            "id": "bb0237be05e94818",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "e73d036f479f2675",
         "type": "tabs",
-        "dimension": 57.534246575342465,
         "children": [
           {
             "id": "d265e9a486cc0cc2",
@@ -203,6 +183,23 @@
             }
           },
           {
+            "id": "7b4f48feae6117ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "dca08779499aaa0d",
+        "type": "tabs",
+        "children": [
+          {
             "id": "0f69fa3c929eae5c",
             "type": "leaf",
             "state": {
@@ -217,8 +214,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,8 +222,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
+      "bases:Create new base": false,
       "graph:Open graph view": false,
+      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
@@ -236,14 +233,15 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "25bf27ac72c25e2b",
+  "active": "7b4f48feae6117ec",
   "lastOpenFiles": [
+    "Kubernetes.md",
     "IT.md",
-    "home/homepage.md",
-    "docker.md",
-    "network.md",
-    "SRE.md",
     "economics.md",
+    "home/homepage.md",
+    "network.md",
+    "docker.md",
+    "SRE.md",
     "periodic/daily tasks.md",
     "periodic/weekly tasks.md",
     "reliable_architecture.md",
@@ -251,7 +249,6 @@
     "network-base.md",
     "tannenbaum-network.md",
     "Linux.md",
-    "Kubernetes.md",
     "databases.md",
     "files/Pasted image 20250818105414.png",
     "security.md",
